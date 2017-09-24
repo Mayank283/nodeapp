@@ -1,0 +1,17 @@
+{
+  "name": "nodelearn",
+  "version": "0.0.1",
+  "description": "app to learn node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "mayank",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "request": "^2.82.0"
+  }
+}
